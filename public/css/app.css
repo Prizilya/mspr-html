@@ -24,6 +24,10 @@ header .container navbar ul {
 header .container navbar ul .li {
   font-size: 20px;
 }
+header .container navbar ul .li .a {
+  padding: 20em;
+}
+
 .titre {
   font-size: 50px;
 }
