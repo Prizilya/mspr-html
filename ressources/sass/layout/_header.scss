@@ -10,34 +10,44 @@
 header {
   position: fixed;
   width: 100%;
-  padding: 10Px;
-  background-color: #EEE;
+  text-align: center;
+  padding: 5Px;
+  background-color: rgb(255, 255, 255, 9);
   box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, .2);
 
 
 
 
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
 
-    navbar {
+  .container {
+
+
+
+
+
+    .navbar {
+
 
 
       ul {
 
         font-size: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+
+        li {
+          font-size: 25px;
+          padding:0 20px;
 
 
 
-        .li {
-          font-size: 20px;
+
+          a {
+            color: black;
 
 
-
-          .a {
-            padding: 20em;
 
           }
         }
@@ -46,7 +56,9 @@ header {
   }
 }
   .titre{
-    font-size: 50px;
+    font-size: 60px;
+    margin: 20px;
+
 
 
 
