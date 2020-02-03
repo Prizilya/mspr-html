@@ -10,18 +10,18 @@
 </head>
 
 <header>
-    <div class="container">
+    <div class="container" >
 
-        <nav class="navbar" style="display: inline-flex">
+        <nav class="navbar">
         <ul>
 
             <li><a href="#">Nos Ateliers</a></li>
             <li><a href="#">Nos Locaux</a></li>
+        </ul>
+            <a class="titre" href="#" >Cookup</a>
 
-            <li> <a class="titre" href="#" >Cookup</a> </li>
-
-
-                <li><a href="#">Blog</a></li>
+           <ul>
+            <li><a href="#">Blog</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
 
@@ -31,4 +31,8 @@
         </nav>
     </div>
 </header>
+<body>
 <main id="main">
+
+
+

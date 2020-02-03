@@ -18,6 +18,16 @@ header {
   background-color: white;
   box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.2);
 }
+header .container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+header .container .navbar {
+  display: flex;
+}
 header .container .navbar ul {
   font-size: 15px;
   display: flex;
@@ -27,6 +37,7 @@ header .container .navbar ul {
 header .container .navbar ul li {
   font-size: 25px;
   padding: 0 20px;
+  min-width: 7em;
 }
 header .container .navbar ul li a {
   color: black;
@@ -34,7 +45,8 @@ header .container .navbar ul li a {
 
 .titre {
   font-size: 60px;
-  margin: 20px;
+  margin: 10px;
+  color: black;
 }
 
 #jumbotron {
