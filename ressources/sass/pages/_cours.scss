@@ -1,6 +1,18 @@
 #jumbotron{
-  padding: 600px 0;
+  min-height: 100em;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: center;
+
+  .container {
+    padding: 16em 0;
+    text-align: center;
+
+    h1 {
+      font-size: 60px;
+    }
+
+    button {
+    }
+  }
 }
