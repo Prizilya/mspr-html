@@ -1,7 +1,7 @@
 
 
   .btn {
-    color: #ffffff;
+    color: rgba(0, 0, 0, 1);
     padding: $pad $extra;
     display: inline-block;
     border: $thick solid transparent;
@@ -11,7 +11,7 @@
     letter-spacing: 0.07em;
 
     .text {
-      // padding: 0 0.3em;
+
 
       transform: translate3d(0, $pad, 0);
       display: block;
@@ -20,7 +20,6 @@
 
     &:after {
       position: absolute;
-      content: '';
       bottom: -$thick;
       left: $extra;
       right: $extra;
@@ -123,4 +122,3 @@
     }
 
   }
-}
