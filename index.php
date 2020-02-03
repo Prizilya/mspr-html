@@ -3,7 +3,7 @@
 <h1>Cours de cuisine</h1>
 
 <section class="button">
-    <a>
+    <a class="btn">
         <span class="text">Nos Ateliers</span>
         <span class="line -right"></span>
         <span class="line -top"></span>

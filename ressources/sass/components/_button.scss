@@ -1,13 +1,7 @@
-$thick : 3px;
-$pad : 0.7em;
-$extra : calc(#{$pad} * 1.2);
-$color : #f2a172;
-
-$button :
 
 
-  a {
-    color: #000000;
+  .btn {
+    color: #ffffff;
     padding: $pad $extra;
     display: inline-block;
     border: $thick solid transparent;
