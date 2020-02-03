@@ -94,6 +94,7 @@ header .container .navbar ul li a {
 }
 .btn:after {
   position: absolute;
+  content: "";
   bottom: -3px;
   left: calc(0.7em * 1.2);
   right: calc(0.7em * 1.2);
