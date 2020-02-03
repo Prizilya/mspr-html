@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2ddecbc3-8408-4a44-8128-a69449ace870" name="Default Changelist" comment="">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/public/images/salad.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cours.php" beforeDir="false" afterPath="$PROJECT_DIR$/cours.php" afterDir="false" />
@@ -16,6 +17,10 @@
       <change beforePath="$PROJECT_DIR$/ressources/sass/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ressources/sass/pages/_home.scss" afterDir="false" />
 =======
       <change beforePath="$PROJECT_DIR$/ressources/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ressources/sass/components/_button.scss" afterDir="false" />
+>>>>>>> Stashed changes
+=======
+      <change beforePath="$PROJECT_DIR$/cours.php" beforeDir="false" afterPath="$PROJECT_DIR$/cours.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/sass/pages/_cours.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ressources/sass/pages/_cours.scss" afterDir="false" />
 >>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

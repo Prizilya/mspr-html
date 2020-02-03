@@ -4,8 +4,8 @@
     <div class="container">
         <h1>Participez à nos cours</h1>
         <section class="button">
-            <a class="btn">
-                <span class="text">Découvrir</span>
+            <a class="btn black">
+                <span class="text black">Découvrir</span>
                 <span class="line -right"></span>
                 <span class="line -top"></span>
                 <span class="line -left"></span>
