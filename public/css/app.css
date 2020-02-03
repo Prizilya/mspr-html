@@ -1,3 +1,7 @@
+#main {
+  padding-top: 79px;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -31,5 +35,12 @@ header .container .navbar ul li a {
 .titre {
   font-size: 60px;
   margin: 20px;
+}
+
+#jumbotron {
+  padding: 100px 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
 }
 /*# sourceMappingURL=app.css.map */
