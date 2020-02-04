@@ -90,15 +90,14 @@ header .container .navbar ul li a {
 #premium {
   background-size: cover;
   color: white;
+  padding-bottom: 10em;
 }
 #premium h2 {
   padding: 4em;
   padding-bottom: 10em;
 }
-
-p {
+#premium p {
   text-align: right;
-  padding-bottom: 10em;
   padding-right: 5em;
 }
 
@@ -109,6 +108,7 @@ p {
   float: left;
 }
 #description p {
+  padding-bottom: 10em;
   line-height: 50px;
   vertical-align: middle;
   display: table-cell;

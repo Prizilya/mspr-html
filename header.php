@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="public/css/app.css">
 
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
     <title>CookUp</title>
 </head>

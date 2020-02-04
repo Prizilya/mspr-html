@@ -1,13 +1,12 @@
 </main>
-<footer>
+<footer id="footer">
 
 
-<section id="footer">
 
 
 <p>site créé par...</p>
 
-</section>
+
 
 </footer>
 </body>

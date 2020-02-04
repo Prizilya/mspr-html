@@ -52,20 +52,23 @@
 #premium {
   background-size: cover;
   color: white;
+  padding-bottom: 10em;
 
   h2 {
     padding: 4em;
     padding-bottom: 10em;
 
   }
+
+
+  p {
+    text-align: right;
+
+    padding-right: 5em;
+
+  }
 }
 
-p {
-  text-align: right;
-  padding-bottom: 10em;
-  padding-right: 5em;
-
-}
 
 
 #description {
@@ -74,16 +77,23 @@ p {
 
   img {
    float: left;
+
   }
 
   p {
-
+    padding-bottom: 10em;
     line-height: 50px;
     vertical-align:middle;
     display: table-cell;
 
 
   }
+
+
+}
+
+@media screen and (max-width: 1200px) {
+      
 
 
 }
