@@ -14,12 +14,12 @@
             <ul>
 
                 <li><a href="cours.php">Nos Ateliers</a></li>
-                <li><a href="#">Nos Locaux</a></li>
+                <li><a href="locaux.php">Nos Locaux</a></li>
             </ul>
             <a class="titre" href="index.php">Cookup</a>
 
             <ul>
-                <li><a href="#">Blog</a></li>
+                <li><a href="blog.php">Blog</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
 
