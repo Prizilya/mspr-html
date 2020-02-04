@@ -98,6 +98,11 @@ header .container .navbar ul li a {
 }
 #premium p {
   text-align: right;
+  padding-bottom: 10em;
+  padding-right: 5em;
+}
+#premium p {
+  text-align: right;
   padding-right: 5em;
 }
 
@@ -126,24 +131,6 @@ header .container .navbar ul li a {
 }
 #jumbotron .container h1 {
   font-size: 60px;
-}
-
-.card img {
-  display: block;
-  width: 100%;
-  height: auto;
-  max-width: 25%;
-  margin: 5px;
-  float: left;
-}
-.card h2 {
-  margin-bottom: 50px;
-  font-size: 30px;
-}
-.card p {
-  padding: 0;
-  overflow-wrap: break-word;
-  margin-bottom: 22px;
 }
 
 .btn {
@@ -254,10 +241,26 @@ a:active .line.-bottom {
 }
 
 .card {
-  max-height: 50%;
-  border: 2px solid #f2a172;
   margin-left: 40%;
   margin-right: 6%;
+  overflow: hidden;
+  display: flex;
+  box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.5);
   border-radius: 5px;
+}
+.card img {
+  margin: 5px;
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 25%;
+}
+.card .card-body {
+  padding: 15px;
+  background-color: red;
+}
+.card .card-body h2 {
+  margin-bottom: 50px;
+  font-size: 30px;
 }
 /*# sourceMappingURL=app.css.map */

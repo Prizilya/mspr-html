@@ -7,13 +7,10 @@
   background-repeat: no-repeat;
   margin-bottom: 10em;
 
-
   h1 {
     font-size: 60px;
     color: white;
     padding-bottom: 1.5em;
-
-
   }
 }
 
@@ -28,8 +25,6 @@
   display: flex;
   margin: auto;
   margin-bottom: 10em;
-
-
 }
 
 .col {
@@ -38,15 +33,11 @@
   background-color: #FFF;
   border-radius: 5px;
   box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, .5);
-
-
 }
 
 
 .carte {
   display: block;
-
-
 }
 
 #premium {
@@ -57,7 +48,12 @@
   h2 {
     padding: 4em;
     padding-bottom: 10em;
+  }
 
+  p {
+    text-align: right;
+    padding-bottom: 10em;
+    padding-right: 5em;
   }
 
 
@@ -74,22 +70,16 @@
 #description {
   margin: 5em;
 
-
   img {
-   float: left;
-
+    float: left;
   }
 
   p {
     padding-bottom: 10em;
     line-height: 50px;
-    vertical-align:middle;
+    vertical-align: middle;
     display: table-cell;
-
-
   }
-
-
 }
 
 @media screen and (max-width: 1200px) {
