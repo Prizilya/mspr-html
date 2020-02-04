@@ -1924,6 +1924,11 @@ fieldset {
   text-decoration: none;
 }
 
+html {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+}
+
 #header {
   position: fixed;
   width: 100%;

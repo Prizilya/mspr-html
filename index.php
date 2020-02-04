@@ -4,7 +4,7 @@
     <h1>Cours de cuisine</h1>
 
     <div class="button-box">
-        <a class="btn white">
+        <a href="cours.php" class="btn white">
             <span class="text">Nos Ateliers</span>
             <span class="line -right"></span>
             <span class="line -top"></span>

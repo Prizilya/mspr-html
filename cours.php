@@ -4,7 +4,7 @@
     <div class="container">
         <h1>Participez à nos cours</h1>
         <div class="button">
-            <a class="btn black">
+            <a href="#cours-card" class="btn black">
                 <span class="text black">Découvrir</span>
                 <span class="line -right"></span>
                 <span class="line -top"></span>
@@ -13,7 +13,7 @@
             </a>
         </div>
 
-        <div class="cours-card">
+        <div class="cours-card" id="cours-card">
             <div  class="right">
                 <div class="card">
                     <img src="public/images/card1.jpg" alt="">

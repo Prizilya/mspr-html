@@ -13,10 +13,10 @@
         <nav class="navbar">
             <ul>
 
-                <li><a href="#">Nos Ateliers</a></li>
+                <li><a href="cours.php">Nos Ateliers</a></li>
                 <li><a href="#">Nos Locaux</a></li>
             </ul>
-            <a class="titre" href="#">Cookup</a>
+            <a class="titre" href="index.php">Cookup</a>
 
             <ul>
                 <li><a href="#">Blog</a></li>
