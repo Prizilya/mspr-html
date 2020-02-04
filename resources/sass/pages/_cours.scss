@@ -1,5 +1,6 @@
-#jumbotron {
+#cours-jumbotron {
   min-height: 100em;
+  padding-bottom: 15em;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -11,5 +12,9 @@
     h1 {
       font-size: 60px;
     }
+  }
+
+  .button {
+    margin-bottom: 15rem;
   }
 }

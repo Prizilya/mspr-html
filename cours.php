@@ -1,6 +1,6 @@
 <?php include_once "header.php" ?>
 
-<section id="jumbotron" style="background-image: url(public/images/background.png);">
+<section id="cours-jumbotron" style="background-image: url(public/images/background.png);">
     <div class="container">
         <h1>Participez à nos cours</h1>
         <div class="button">
@@ -12,8 +12,8 @@
                 <span class="line -bottom"></span>
             </a>
         </div>
-        <div class="section">
 
+        <div class="section">
             <div class="card">
                 <img src="public/images/card1.jpg" alt="">
                 <div class="card-body">
