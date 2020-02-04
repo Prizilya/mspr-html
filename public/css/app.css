@@ -111,6 +111,22 @@ p {
 #jumbotron .container h1 {
   font-size: 60px;
 }
+.card {
+  max-height: 50%;
+  border: 2px solid #f2a172;
+  margin-left: 40%;
+}
+
+.img {
+  max-width: 10%;
+  margin: auto;
+}
+.img img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .btn {
   padding: 0.7em calc(0.7em * 1.2);
   display: inline-block;
