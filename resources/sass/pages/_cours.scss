@@ -1,6 +1,5 @@
 #cours-jumbotron {
-  min-height: 100em;
-  padding-bottom: 15em;
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -21,8 +20,8 @@
   width: 60%;
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (max-width: 1200px) {
   .right{
-
+    width: auto;
   }
 }
