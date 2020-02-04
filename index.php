@@ -14,7 +14,7 @@
     </div>
 </section>
 
-<section id="home-presentation">
+<section id="home-presentation" >
     <div class="container">
         <div class="grid-3">
 

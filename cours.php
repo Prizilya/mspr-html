@@ -14,7 +14,7 @@
         </div>
 
         <div class="cours-card">
-            <div style="width: 60%" class="right">
+            <div  class="right">
                 <div class="card">
                     <img src="public/images/card1.jpg" alt="">
                     <div class="card-body">
@@ -34,7 +34,7 @@
             </div>
 
             <div class="cours-card">
-                <div style="width: 60%" class="right">
+                <div  class="right">
                     <div class="card">
                         <img src="public/images/card1.jpg" alt="">
                         <div class="card-body">
@@ -54,7 +54,7 @@
                 </div>
 
                 <div class="cours-card">
-                    <div style="width: 60%" class="right">
+                    <div  class="right">
                         <div class="card">
                             <img src="public/images/card1.jpg" alt="">
                             <div class="card-body">

@@ -1967,6 +1967,10 @@ fieldset {
 #footer {
   background-color: black;
   color: white;
+  padding: 20px;
+}
+#footer p {
+  text-align: center;
 }
 
 #home-jumbotron {
@@ -1987,6 +1991,9 @@ fieldset {
   margin-left: 6em;
 }
 
+#home-presentation {
+  margin-bottom: 50px;
+}
 #home-presentation .carte {
   background-color: #FFF;
   border-radius: 5px;
@@ -2033,6 +2040,45 @@ fieldset {
   display: table-cell;
 }
 
+@media screen and (max-width: 1000px) {
+  #home-jumbotron {
+    background-position: center;
+    object-fit: cover;
+    height: 300px;
+  }
+  #home-jumbotron h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+  }
+  #home-jumbotron .button-box {
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+
+  #premium {
+    background-position: center;
+    object-fit: cover;
+    height: 300px;
+  }
+
+  #premium h2 {
+    padding: 0;
+  }
+
+  #premium p {
+    padding-right: 0;
+    margin-left: 40%;
+    margin-top: 10em;
+  }
+
+  #description {
+    padding: 5em 0;
+  }
+  #description img {
+    width: 100%;
+  }
+}
 #cours-jumbotron {
   min-height: 100em;
   padding-bottom: 15em;
@@ -2049,6 +2095,10 @@ fieldset {
 }
 #cours-jumbotron .container .button {
   margin-bottom: 15rem;
+}
+
+.right {
+  width: 60%;
 }
 
 .btn {
@@ -2197,4 +2247,3 @@ a:active .line.-bottom {
 
 }
 */
-/*# sourceMappingURL=app.css.map */
