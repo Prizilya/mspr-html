@@ -3,7 +3,6 @@
   padding: 0;
   list-style-type: none;
   text-decoration: none;
-  box-sizing: border-box;
 }
 
 header {
@@ -45,6 +44,11 @@ header .container .navbar ul li a {
   color: black;
 }
 
+#footer {
+  background-color: black;
+  color: white;
+}
+
 .jumbotron {
   vertical-align: center;
   padding-top: 15em;
@@ -79,7 +83,7 @@ header .container .navbar ul li a {
   box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.5);
 }
 
-.card {
+.carte {
   display: block;
 }
 
@@ -96,6 +100,18 @@ p {
   text-align: right;
   padding-bottom: 10em;
   padding-right: 5em;
+}
+
+#description {
+  margin: 5em;
+}
+#description img {
+  float: left;
+}
+#description p {
+  line-height: 50px;
+  vertical-align: middle;
+  display: table-cell;
 }
 
 #jumbotron {

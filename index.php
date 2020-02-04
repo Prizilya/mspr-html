@@ -23,7 +23,7 @@
 
 
         <div class="col">
-            <div class="card">
+            <div class="carte">
                 <img src="public/images/card2.jpg" width="100%">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula nibh. Proin porttitor
                     dapibus rutrum. Suspendisse sit amet erat lectus. Nulla a nisi egestas, imperdiet justo vitae,
@@ -53,8 +53,29 @@
 
 
 
+<section id="description">
+
+    <img src="public/images/plat1.png" width="25%">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula nibh. Proin porttitor
+        dapibus rutrum. Suspendisse sit amet erat lectus. Nulla a nisi egestas, imperdiet justo vitae,
+        accumsan est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+        egestas. Etiam imperdiet placerat velit.</p>
+    <img src="public/images/soupe.png" width="30%" style="float: right">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula nibh. Proin porttitor
+        dapibus rutrum. Suspendisse sit amet erat lectus. Nulla a nisi egestas, imperdiet justo vitae,
+        accumsan est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+        egestas. Etiam imperdiet placerat velit.</p>
+    <img src="public/images/muesli.png" width="30%">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula nibh. Proin porttitor
+        dapibus rutrum. Suspendisse sit amet erat lectus. Nulla a nisi egestas, imperdiet justo vitae,
+        accumsan est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+        egestas. Etiam imperdiet placerat velit.</p>
 
 
+</section>
+
+
+<?php include_once ("footer.php"); ?>
 
 
 
