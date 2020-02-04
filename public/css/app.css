@@ -1968,9 +1968,15 @@ fieldset {
   background-color: black;
   color: white;
   padding: 20px;
+  text-align: center;
 }
 #footer p {
   text-align: center;
+  padding: 20px;
+}
+#footer a {
+  padding: 10px;
+  margin: 10px;
 }
 
 #home-jumbotron {
