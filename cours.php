@@ -13,26 +13,68 @@
             </a>
         </div>
 
-        <div class="section">
-            <div class="card">
-                <img src="public/images/card1.jpg" alt="">
-                <div class="card-body">
-                    <h2>Cours sur moi !</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam aliquid optio repellat
-                        sequi!</p>
-                    <a class="btn black">
-                        <span class="text black">Inscris- toi !</span>
-                        <span class="line -right"></span>
-                        <span class="line -top"></span>
-                        <span class="line -left"></span>
-                        <span class="line -bottom"></span>
-                    </a>
+        <div class="cours-card">
+            <div style="width: 60%" class="right">
+                <div class="card">
+                    <img src="public/images/card1.jpg" alt="">
+                    <div class="card-body">
+                        <h2>Cours sur moi !</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam aliquid optio
+                            repellat
+                            sequi!</p>
+                        <a class="btn black">
+                            <span class="text black">Inscris- toi !</span>
+                            <span class="line -right"></span>
+                            <span class="line -top"></span>
+                            <span class="line -left"></span>
+                            <span class="line -bottom"></span>
+                        </a>
+                    </div>
                 </div>
             </div>
 
-        </div>
-    </div>
-</section>
+            <div class="cours-card">
+                <div style="width: 60%" class="right">
+                    <div class="card">
+                        <img src="public/images/card1.jpg" alt="">
+                        <div class="card-body">
+                            <h2>Cours sur moi !</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam aliquid optio
+                                repellat
+                                sequi!</p>
+                            <a class="btn black">
+                                <span class="text black">Inscris- toi !</span>
+                                <span class="line -right"></span>
+                                <span class="line -top"></span>
+                                <span class="line -left"></span>
+                                <span class="line -bottom"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
 
+                <div class="cours-card">
+                    <div style="width: 60%" class="right">
+                        <div class="card">
+                            <img src="public/images/card1.jpg" alt="">
+                            <div class="card-body">
+                                <h2>Cours sur moi !</h2>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam aliquid optio
+                                    repellat
+                                    sequi!</p>
+                                <a class="btn black">
+                                    <span class="text black">Inscris- toi !</span>
+                                    <span class="line -right"></span>
+                                    <span class="line -top"></span>
+                                    <span class="line -left"></span>
+                                    <span class="line -bottom"></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+</section>
 
 <?php include_once "footer.php" ?>
