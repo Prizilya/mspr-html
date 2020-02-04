@@ -14,20 +14,22 @@
         </div>
         <div class="section">
             <div class="card">
-                <div class="img">
-                    <img src="public/images/card1.jpg" alt="">
-                </div>
-                <div class="text">
-                    <h2>cours sur moi !</h2>
-                </div>
-                <div>
-                    Description blablabla
-                </div>
-                <button>Inscris- toi !</button>
+                <img src="public/images/card1.jpg" alt="">
+                <h2>Cours sur moi !</h2>
+                <p>
+                    Description blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla
+                </p>
+                <a class="btn black">
+                    <span class="text black">Inscris- toi !</span>
+                    <span class="line -right"></span>
+                    <span class="line -top"></span>
+                    <span class="line -left"></span>
+                    <span class="line -bottom"></span>
+                </a>
             </div>
-        </section>
-    </div>
+</section>
+</div>
 </section>
 
 
-<?php include_once "footer.php"?>
+<?php include_once "footer.php" ?>
