@@ -2112,6 +2112,51 @@ html {
   width: 60%;
 }
 
+#blog-jumbotron {
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+  padding-bottom: 480px;
+  width: 100%;
+  height: auto;
+}
+
+#start-section .container {
+  text-align: center;
+  justify-content: center;
+}
+#start-section .container h1 {
+  font-size: 60px;
+  margin-bottom: 3em;
+}
+#start-section .container .blog-titre {
+  margin-bottom: 1em;
+}
+#start-section .container .blog-titre h2 {
+  font-size: 40px;
+}
+#start-section .container #blog-article {
+  background-repeat: no-repeat;
+  background-size: 50% auto;
+  background-position: center;
+  width: 100%;
+  height: auto;
+}
+#start-section .container #blog-article h3 {
+  font-size: 20px;
+  margin-bottom: 3em;
+  text-align: right;
+}
+#start-section .container #blog-article p {
+  font-size: small;
+  text-align: right;
+}
+#start-section .container #blog-article a {
+  display: flex;
+  margin-top: 1em;
+  margin-left: 9em;
+}
+
 .btn {
   padding: 0.7em calc(0.7em * 1.2);
   display: inline-block;
@@ -2240,6 +2285,13 @@ a:active .line.-bottom {
   margin-bottom: 50px;
   font-size: 30px;
 }
+
+.tout {
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-clip: border-box;
+}
+
 .container {
   width: 90%;
   margin: auto;
@@ -2258,3 +2310,4 @@ a:active .line.-bottom {
 
 }
 */
+/*# sourceMappingURL=app.css.map */

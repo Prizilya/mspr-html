@@ -14,7 +14,7 @@
         </div>
 
         <div class="cours-card" id="cours-card">
-            <div  class="right">
+            <div class="right">
                 <div class="card">
                     <img src="public/images/card1.jpg" alt="">
                     <div class="card-body">
