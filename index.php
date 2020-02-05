@@ -25,12 +25,11 @@
             <div class="col">
                 <div class="carte">
                     <img src="public/images/card2.jpg" width="100%">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula nibh. Proin porttitor
-                        dapibus rutrum. Suspendisse sit amet erat lectus. Nulla a nisi egestas, imperdiet justo vitae,
-                        accumsan est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-                        turpis
-                        egestas. Etiam imperdiet placerat velit. Morbi tempor odio ligula, et gravida est porttitor at.
-                        Donec a sem turpis.</p>
+                    <p>CookUp c'est une startup proposant des cours de cuisine au coeur de Nantes. Venez à la rencontre
+                        de nos chefs et apprenez avec des professionnels en <a href="#cours.php">vous inscrivant</a> à nos différents ateliers à thème.
+                        Cuisine gastronomique, du terroir , du monde, cours de pâtisserie, d’œnologie… pleins de belles surprises vous attendent…
+                    </p>
+
                 </div>
             </div>
 
@@ -45,8 +44,8 @@
 
 <section id="premium" style="background-image: url(public/images/spag.jpg)">
 
-    <h2>Lorem ipsum dolor sit amet</h2>
-    <p>Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet</p>
+    <h2>Des plats de qualité...</h2>
+    <p style="font-size: 20px">dont vous pouvez être fier.</p>
 
 
 </section>
@@ -56,20 +55,19 @@
     <div class="container">
 
         <img src="public/images/plat1.png" width="25%">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula nibh. Proin porttitor
-            dapibus rutrum. Suspendisse sit amet erat lectus. Nulla a nisi egestas, imperdiet justo vitae,
-            accumsan est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
-            egestas. Etiam imperdiet placerat velit.</p>
+        <p>Envie de vous perfectionner en cuisine, d'organiser un atelier culinaire ou un cours de cuisine à
+            domicile à Nantes et ses environs avec vos amis? Envie d'offrir un cadeau original ?
+            Cuisine du monde, cuisine détox , pâtisserie en déclinaison pour adultes et enfants…,
+            retrouvez nos chefs et artisans dans nos ateliers pour des démonstrations et des ateliers culinaires</p>
         <img src="public/images/soupe.png" width="30%" style="float: right">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula nibh. Proin porttitor
-            dapibus rutrum. Suspendisse sit amet erat lectus. Nulla a nisi egestas, imperdiet justo vitae,
-            accumsan est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
-            egestas. Etiam imperdiet placerat velit.</p>
+        <p>Chaque prestation peut être précédée d’un entretien dans nos cuisine pour que l'on puisse vous faire des propositions adaptées.
+            Nous réalisons ensemble la totalité des recettes avec votre propre matériel, ainsi vous pourrez très facilement les refaire seul.</p>
         <img src="public/images/muesli.png" width="30%">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula nibh. Proin porttitor
-            dapibus rutrum. Suspendisse sit amet erat lectus. Nulla a nisi egestas, imperdiet justo vitae,
-            accumsan est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
-            egestas. Etiam imperdiet placerat velit.</p>
+        <p>cours de cuisine dure 2-3h. Nous cuisinons 3 ou 4 plats dans votre cuisine selon un thème : cuisine italienne, asiatique ou nantaise, tapas,
+            sushis&makis, légumes et/ou fruits de saison. Je propose aussi des cours de pâtisserie : macarons, cup.
+            Vous avez envie de changer vos habitudes alimentaires, diminuer votre consommation de produits industriels, gras et/ou sucrés mais vous manquez d’idées et de temps.
+            Je vous propose, pour une ou deux personnes, une ou plusieurs séances de coaching culinaire.
+        </p>
 
     </div>
 </section>
