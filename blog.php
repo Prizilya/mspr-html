@@ -11,7 +11,7 @@
                 </div>
 
                 <div class="blog-card" id="blog-card">
-                    <div style="width: 40%;" class="center">
+                    <div class="center">
                         <div class="card tout" style="background-image: url(public/images/valentine.jpg);">
                             <div class="right">
                                 <h3>Un petit déjeuner romantique pour votre âme soeur !</h3>

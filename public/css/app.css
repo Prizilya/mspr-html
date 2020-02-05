@@ -2123,6 +2123,11 @@ html {
   width: 100%;
   height: auto;
 }
+@media screen and (max-width: 1200px) {
+  #blog-jumbotron {
+    padding-bottom: 320px;
+  }
+}
 
 #start-section .container {
   text-align: center;
@@ -2138,39 +2143,57 @@ html {
 #start-section .container .blog-titre h2 {
   font-size: 40px;
 }
-#start-section .container .card {
+#start-section .container .blog-card .center {
+  width: 40%;
+}
+@media screen and (max-width: 1200px) {
+  #start-section .container .blog-card .center {
+    width: auto;
+  }
+}
+#start-section .container .blog-card .center .card {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
-#start-section .container .card h3 {
+#start-section .container .blog-card .center .card h3 {
   font-size: 20px;
   margin-bottom: 2.3em;
   text-align: center;
 }
-#start-section .container .card p {
+#start-section .container .blog-card .center .card p {
   font-size: small;
   text-align: center;
   max-width: 80%;
   float: right;
   margin-bottom: 2.3em;
 }
-#start-section .container .card a {
+#start-section .container .blog-card .center .card a {
   float: right;
 }
 
-@media screen and (max-width: 1200px) {
-  .right {
-    width: auto;
-  }
-}
 #blog-section2 {
   margin-bottom: 5em;
+}
+@media screen and (max-width: 1200px) {
+  #blog-section2 {
+    margin-bottom: 0;
+  }
 }
 #blog-section2 .container h2 {
   font-size: 40px;
   text-align: center;
   margin-bottom: 1.3em;
+}
+@media screen and (max-width: 1200px) {
+  #blog-section2 .container .flex-container .w30, #blog-section2 .container .flex-container--row .w30,
+#blog-section2 .container .flex-row .w30, #blog-section2 .container .flex-container--column .w30,
+#blog-section2 .container .flex-column .w30, #blog-section2 .container .flex-container--row-reverse .w30,
+#blog-section2 .container .flex-row-reverse .w30, #blog-section2 .container .flex-container--column-reverse .w30,
+#blog-section2 .container .flex-column-reverse .w30 {
+    width: 100%;
+    margin-bottom: 5em;
+  }
 }
 #blog-section2 .container .flex-container .boite h3, #blog-section2 .container .flex-container--row .boite h3,
 #blog-section2 .container .flex-row .boite h3, #blog-section2 .container .flex-container--column .boite h3,
@@ -2443,3 +2466,4 @@ a:active .line.-bottom {
 
 }
 */
+/*# sourceMappingURL=app.css.map */
