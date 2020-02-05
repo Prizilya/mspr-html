@@ -1,6 +1,6 @@
 <?php include_once ("header.php") ?>
 
-<section id="home-jumbotron" class="jumbotron" style="background-image: url(public/images/locaux6.jpg)">
+<section id="contact" class="jumbotron" style="background-image: url(public/images/locaux6.jpg)">
     <div class="title"><h1>Contactez-nous</h1></div>
     <div class="contact">
         <div class="left" style="background-image: url(public/images/locaux4.jpg);"></div>
