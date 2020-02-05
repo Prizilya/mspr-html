@@ -20,7 +20,7 @@
 
             <ul>
                 <li><a href="blog.php">Blog</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="contact.php">Contact</a></li>
             </ul>
 
 

@@ -1,12 +1,14 @@
-<?php include_once("header.php") ?>
+<?php include_once ("header.php") ?>
 
-<section id="contact-jumbotron" class="jumbotron" style="background-image: url(public/images/locaux6.jpg)">
+
+
+<section id="contact-inscription" class="inscritpion" >
     <div class="title"><h1>Contactez-nous</h1></div>
 
 
-    <div class="contact">
+    <div class="inscription">
         <div class="left">
-            <img src="public/images/locaux4.jpg" alt="">
+            <img src="#" alt="">
         </div>
         <div class="right">
             <div class="formbox">
@@ -27,6 +29,5 @@
 </section>
 
 
-<?php include_once("footer.php") ?>
 
-
+<?php include_once ("footer.php") ?>

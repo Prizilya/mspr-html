@@ -1,21 +1,19 @@
-#contact {
+#contact-jumbotron {
   vertical-align: center;
-  padding-top: 15em;
-  padding-left: 5em;
-  padding-bottom: 15em;
+  padding: 15em 0;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 
-.title{
+.title {
   text-align: center;
   padding: 50px 0 20px;
   color: white;
 
 }
 
-.titre h1{
+.titre h1 {
   margin: 0;
   padding: 0;
   color: #262626;
@@ -24,36 +22,53 @@
 }
 
 .contact {
-  width: 50%;
-  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 600px;
   background: #fff;
-  margin: 0 Auto;
+  margin: auto;
   border: 2px solid #fff;
   box-shadow: 0 15px 40px rgba(0, 0, 0, .5);
 
-  .left{
-    float: left;
-    width: 50%;
-    height: 400px;
-    background-size: cover;
-    box-sizing: border-box;
-  }
-  .right{
-    float: right;
-    width: 50%;
-    height: 400px;
-    box-sizing: border-box;
+  .left {
 
+    img {
+      height: 400px;
+      object-fit: cover;
+      object-position: left center;
+      display: block;
+      width: 100%;
+    }
   }
 
+  .right {
+    width: 100%;
+  }
+}
+
+@media screen and(min-width: 1000px) {
+  .contact {
+
+    .left {
+      max-width: 50%;
+    }
+
+    .right {
+      max-width: 50%;
+    }
+
+  }
 }
 
 .formbox {
-
   width: 100%;
   padding: 80px 40px;
   box-sizing: border-box;
-  height: 400Px;
+  height: 400px;
   background: #FFF;
 
   p {
@@ -69,25 +84,30 @@
   }
 
   input[type="text"],
-  input[type="password"]{
+  input[type="password"] {
     border: none;
     border-bottom: 2px solid #0d0d0d;
     outline: none;
     height: 30px;
   }
+
   input[type="text"]:focus,
-  input[type="password"]:focus{
+  input[type="password"]:focus {
     border-bottom: 2px solid #a77a5b;
   }
-  input[type="submit"]{
+
+  input[type="submit"] {
     border: none;
     outline: none;
     height: 40px;
     color: white;
-    background:black;
+    background: black;
     cursor: pointer;
   }
-  input[type="submit"]:hover{
-    background:#a77a5b;
+
+  input[type="submit"]:hover {
+    background: #a77a5b;
   }
 }
+
+
