@@ -26,6 +26,10 @@
     border-radius: 5px;
     box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, .5);
     font-family: 'Playfair Display', serif;
+    p{
+      padding: 20px;
+      text-align: center;
+    }
   }
 
   .image-side {
@@ -79,6 +83,7 @@
     vertical-align: middle;
     display: table-cell;
     font-family: 'Playfair Display', serif;
+
 
   }
 }

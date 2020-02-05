@@ -9,7 +9,10 @@
     <div class="inscription">
 
         <div class="sub">
-            <div class="enregistrer"><h1>Inscrivez-vous à ce cours:</h1></div>
+            <div class="enregistrer"><h1>Inscrivez-vous à ce cours:</h1>
+            <p>Enterrement de vie de jeune fille, moment convivial entre amis ou entre collègues...
+                en journée ou en soirée, <a href="contact.php">contactez-nous</a> pour réserver un atelier sur mesure à partir de 6 personnes.</p>
+                <br>Nos cours ont lieux dans nos ateliers à cette adresse :</br> 16 Boulevard Général de Gaulle, 44200 Nantes</p></div>
             <div class="formbox">
                 <form>
                     <p>Nom</p>

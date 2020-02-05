@@ -3,6 +3,7 @@
 <section id="home-jumbotron" class="jumbotron" style="background-image: url(public/images/salad.jpg)">
     <h1>Cours de cuisine</h1>
 
+
     <div class="button-box">
         <a href="cours.php" class="btn white">
             <span class="text">Nos Ateliers</span>
@@ -26,7 +27,7 @@
                 <div class="carte">
                     <img src="public/images/card2.jpg" width="100%">
                     <p>CookUp c'est une startup proposant des cours de cuisine au coeur de Nantes. Venez à la rencontre
-                        de nos chefs et apprenez avec des professionnels en <a href="#cours.php">vous inscrivant</a> à nos différents ateliers à thème.
+                        de nos chefs et apprenez avec des professionnels en <a href="cours.php">vous inscrivant</a> à nos différents ateliers à thème.
                         Cuisine gastronomique, du terroir , du monde, cours de pâtisserie, d’œnologie… pleins de belles surprises vous attendent…
                     </p>
 

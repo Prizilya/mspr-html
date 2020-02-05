@@ -5,7 +5,6 @@
 
 <section id="home-jumbotron" class="jumbotron" style="background-image: url(public/images/kitchen.jpg)">
     <h1>Nos locaux</h1>
-
 </section>
 
 
@@ -14,12 +13,25 @@
     <div class="container">
         <div class="grid-2">
             <div class="col">
-                <p style="font-family: 'Playfair Display', serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula nibh. Proin porttitor
-                    dapibus rutrum. Suspendisse sit amet erat lectus. Nulla a nisi egestas, imperdiet justo vitae,
-                    accumsan est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-                    turpis
-                    egestas. Etiam imperdiet placerat velit. Morbi tempor odio ligula, et gravida est porttitor at.
-                    Donec a sem turpis.</p>
+
+
+                <p style="font-family: 'Playfair Display', serif;">
+               <b> Nos cours ont lieux dans nos ateliers à cette adresse :</br> 16 Boulevard Général de Gaulle, 44200 Nantes </b></p>
+
+                    L’atelier de cuisine CookUp
+                    vous accueille au coeur de Nantes</br>
+                    Notre palette des saveurs n’a pas de frontière et pour chaque atelier :
+                    Choisissez votre thème : de la gastronomie Française à la cuisine du monde,
+                    Découvrez les produits de saison, les techniques de base
+                    Partagez les tendances gourmandes,
+                    Réalisez des recettes créatives et accessibles
+                    Participez activement à l’élaboration des recettes (préparation,cuisson, dressage)/<p>
+
+                <p> Nos chefs expérimenté et pédagogue vous apportera de nouvelles idées (Matériel, Ingrédients, emballages et fiches techniques vous sont fournis)</p>
+
+                <p><u><b> Privatisez un atelier : Enterrement de vie de jeune fille/garçon, anniversaire, événement particulier</u></b>
+                    Si vous souhaitez organiser un déjeuner ou une soirée vraiment atypique, l’atelier cuisine vous concocte une formule sur mesure à l’atelier ou sur le lieu de votre choix,
+                    un moment unique à partager exclusivement avec vos invités.</p>
             </div>
 
             <div class="col">

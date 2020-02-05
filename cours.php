@@ -4,8 +4,8 @@
     <div class="container">
         <h1>Participez à nos cours</h1>
         <div class="button">
-            <a href="#cours-card" class="btn black">
-                <span class="text black">Découvrir</span>
+            <a href="locaux.php" class="btn black">
+                <span class="text black">Dans nos locaux</span>
                 <span class="line -right"></span>
                 <span class="line -top"></span>
                 <span class="line -left"></span>
