@@ -1952,12 +1952,14 @@ html {
   margin: 10px;
   color: black;
   text-decoration: none;
+  font-family: "Lobster", cursive;
 }
 #header .container .navbar ul {
   font-size: 15px;
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: "Lobster", cursive;
 }
 #header .container .navbar ul li {
   font-size: 25px;
@@ -2009,6 +2011,7 @@ html {
   font-size: 60px;
   color: white;
   padding-bottom: 1.5em;
+  font-family: "Playfair Display", serif;
 }
 #home-jumbotron .button-box {
   margin-left: 6em;
@@ -2021,6 +2024,7 @@ html {
   background-color: #FFF;
   border-radius: 5px;
   box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.5);
+  font-family: "Playfair Display", serif;
 }
 #home-presentation .image-side {
   display: block;
@@ -2039,11 +2043,13 @@ html {
 #premium h2 {
   padding: 4em;
   padding-bottom: 10em;
+  font-family: "Playfair Display", serif;
 }
 #premium p {
   text-align: right;
   padding-bottom: 10em;
   padding-right: 5em;
+  font-family: "Playfair Display", serif;
 }
 #premium p {
   text-align: right;
@@ -2061,6 +2067,7 @@ html {
   line-height: 50px;
   vertical-align: middle;
   display: table-cell;
+  font-family: "Playfair Display", serif;
 }
 
 @media screen and (max-width: 1000px) {
@@ -2110,9 +2117,14 @@ html {
 #cours-jumbotron .container {
   padding: 16em 0;
   text-align: center;
+  font-family: "Playfair Display", serif;
 }
 #cours-jumbotron .container h1 {
   font-size: 60px;
+  font-family: "lora", serif;
+}
+#cours-jumbotron .container h2 {
+  font-family: "lora", serif;
 }
 #cours-jumbotron .container .button {
   margin-bottom: 15rem;
@@ -2148,12 +2160,14 @@ html {
 #start-section .container h1 {
   font-size: 60px;
   margin-bottom: 2.3em;
+  font-family: "Playfair Display", serif;
 }
 #start-section .container .blog-titre {
   margin-bottom: 2.3em;
 }
 #start-section .container .blog-titre h2 {
   font-size: 40px;
+  font-family: "Playfair Display", serif;
 }
 #start-section .container .blog-card .center {
   width: 40%;
@@ -2177,6 +2191,7 @@ html {
   font-size: 20px;
   margin-bottom: 2.3em;
   text-align: center;
+  font-family: "lora", serif;
 }
 #start-section .container .blog-card .center .card p {
   font-size: small;
@@ -2184,6 +2199,7 @@ html {
   max-width: 80%;
   float: right;
   margin-bottom: 2.3em;
+  font-family: "Playfair Display", serif;
 }
 #start-section .container .blog-card .center .card a {
   float: right;
@@ -2415,10 +2431,14 @@ html {
   background-repeat: no-repeat;
   margin-bottom: 10em;
 }
+#home-jumbotron .container {
+  font-family: "Playfair Display", serif;
+}
 #home-jumbotron h1 {
   font-size: 60px;
   color: white;
   padding-bottom: 1.5em;
+  font-family: "Playfair Display", serif;
 }
 
 @media screen and (max-width: 1000px) {
@@ -2435,6 +2455,7 @@ html {
   cursor: pointer;
   letter-spacing: 0.07em;
   text-decoration: none !important;
+  font-family: "Playfair Display", serif;
 }
 .btn.black {
   color: black !important;
@@ -2588,4 +2609,3 @@ a:active .line.-bottom {
 
 }
 */
-/*# sourceMappingURL=app.css.map */

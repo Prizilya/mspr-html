@@ -6,17 +6,27 @@
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 10em;
+.container{
+
+
+
+    font-family: 'Playfair Display', serif;
+
+
+}
 
   h1 {
     font-size: 60px;
     color: white;
     padding-bottom: 1.5em;
+    font-family: 'Playfair Display', serif;
   }
 
 
-}
 
 }
+
+
 
 @media screen and (max-width: 1000px) {
         .carte{
@@ -24,5 +34,4 @@
         }
 
 
-}}
-
+}

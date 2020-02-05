@@ -14,7 +14,7 @@
     <div class="container">
         <div class="grid-2">
             <div class="col">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula nibh. Proin porttitor
+                <p style="font-family: 'Playfair Display', serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula nibh. Proin porttitor
                     dapibus rutrum. Suspendisse sit amet erat lectus. Nulla a nisi egestas, imperdiet justo vitae,
                     accumsan est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
                     turpis
