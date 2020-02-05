@@ -2,22 +2,21 @@
 
 
 
-<section id="contact-inscription" class="inscritpion" >
-    <div class="title"><h1>Contactez-nous</h1></div>
+<section id="contact-inscription" class="inscritpion" style="background-image: url(public/images/pasta.jpg)">
+
 
 
     <div class="inscription">
-        <div class="left">
-            <img src="#" alt="">
-        </div>
-        <div class="right">
+
+        <div class="sub">
+            <div class="enregistrer"><h1>Inscrivez-vous à ce cours:</h1></div>
             <div class="formbox">
                 <form>
                     <p>Nom</p>
                     <input type="text" name="" placeholder="">
                     <p>Prénom</p>
                     <input type="text" name="" placeholder="">
-                    <p>Votre message</p>
+                    <p>Votre Email</p>
                     <input type="text" name="" placeholder="">
                     <input type="submit" name="" value="Envoyer">
                 </form>
