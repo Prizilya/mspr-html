@@ -2129,36 +2129,40 @@ html {
 }
 #start-section .container h1 {
   font-size: 60px;
-  margin-bottom: 3em;
+  margin-bottom: 2.3em;
 }
 #start-section .container .blog-titre {
-  margin-bottom: 1em;
+  margin-bottom: 2.3em;
 }
 #start-section .container .blog-titre h2 {
   font-size: 40px;
 }
-#start-section .container #blog-article {
+#start-section .container .card {
   background-repeat: no-repeat;
-  background-size: 50% auto;
+  background-size: cover;
   background-position: center;
-  width: 100%;
-  height: auto;
 }
-#start-section .container #blog-article h3 {
+#start-section .container .card h3 {
   font-size: 20px;
-  margin-bottom: 3em;
-  text-align: right;
+  margin-bottom: 2.3em;
+  text-align: center;
 }
-#start-section .container #blog-article p {
+#start-section .container .card p {
   font-size: small;
-  text-align: right;
+  text-align: center;
+  max-width: 80%;
+  float: right;
+  margin-bottom: 2.3em;
 }
-#start-section .container #blog-article a {
-  display: flex;
-  margin-top: 1em;
-  margin-left: 9em;
+#start-section .container .card a {
+  float: right;
 }
 
+@media screen and (max-width: 1200px) {
+  .right {
+    width: auto;
+  }
+}
 #contact {
   vertical-align: center;
   padding-top: 15em;

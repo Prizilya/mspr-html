@@ -14,7 +14,7 @@
                     <div  style="width: 40%;" class="center">
                         <div class="card tout" style="background-image: url(public/images/valentine.jpg);">
                             <div class="right">
-                                <h2>Un petit déjeuner romantique pour votre âme soeur !</h2>
+                                <h3>Un petit déjeuner romantique pour votre âme soeur !</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam aliquid optio
                                     spellat sequi!</p>
                                 <a class="btn black">
@@ -27,18 +27,6 @@
                             </div>
                         </div>
                     </div>
-
-                <div id="blog-article" style="background-image: url(public/images/valentine.jpg)" ;>
-                    <h3> Un petit déjeuner romantique pour votre âme soeur ! </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vel euismod enim, eget venenatis nulla. Donec posuere, arcu eget maximus gravida, quam dolor dapibus tellus, eget bibendum velit sapien nec ante. Nunc vitae quam vitae purus fermentum fermentum a eu lectus.
-                        <a href="#cours-card" class="button btn black">
-                            <span class="text black">Lire</span>
-                            <span class="line -right"></span>
-                            <span class="line -top"></span>
-                            <span class="line -left"></span>
-                            <span class="line -bottom"></span>
-                        </a>
-                </div>
 
     </section>
 
