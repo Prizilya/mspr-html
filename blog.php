@@ -15,8 +15,7 @@
                         <div class="card tout" style="background-image: url(public/images/valentine.jpg);">
                             <div class="right">
                                 <h3>Un petit déjeuner romantique pour votre âme soeur !</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam aliquid optio
-                                    spellat sequi!</p>
+                                <p>La saint Valentin arrive ! Créer un petit-déjeuner personnalisé pour votre moitié et la journée ne pourra que bien commencer !</p>
                                 <a class="btn black">
                                     <span class="text black">Découvrir</span>
                                     <span class="line -right"></span>
@@ -111,8 +110,7 @@
 
                     <img src="public/images/epices.jpg" alt="Micro" title="Le micro de Valentine">
                     <h3>L'art des épices chiliennes</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut laoreet tortor. Aliquam ex
-                        erat, elementum ut ultrices et, finibus nec nisl.</p>
+                    <p>"C'est trop épicé !" "Il est tout fade ton repas !". On vous apprend à manier les épices chiliennes pour n'avoir que des compliments sur vos repas !</p>
                     <div class="center">
                         <a class="btn black">
                             <span class="text black">Découvrir</span>
@@ -128,8 +126,7 @@
 
                     <img src="public/images/vege.jpg" alt="Micro" title="Le micro de Valentine">
                     <h3>Une lunch box 100% végé</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut laoreet tortor. Aliquam ex
-                        erat, elementum ut ultrices et, finibus nec nisl.</p>
+                    <p>Vous n'arrivez pas à faire des plats végétariens au travail ? Pas de problème ! Cette lunch box est parfaite pour vous !</p>
                     <div class="center">
                         <a class="btn black">
                             <span class="text black">Découvrir</span>
