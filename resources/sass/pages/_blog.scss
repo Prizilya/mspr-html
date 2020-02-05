@@ -24,6 +24,7 @@
       h2 {
         font-size: 40px;
       }
+
       margin-bottom: 2.3em;
     }
 
@@ -32,7 +33,11 @@
       .center {
         width: 40%;
 
-        @media screen and (max-width: 1200px) {
+        @media screen and (max-width: 1000px) {
+          width: 60%;
+        }
+
+        @media screen and (max-width: 600px) {
           width: auto;
         }
 
@@ -66,38 +71,37 @@
   }
 }
 
-#blog-section2{
+#blog-section2 {
 
   margin-bottom: 5em;
 
   @media screen and (max-width: 1200px) {
-      margin-bottom: 0;
+    margin-bottom: 0;
   }
 
-  .container{
+  .container {
     h2 {
       font-size: 40px;
       text-align: center;
       margin-bottom: 1.3em;
     }
+
     .flex-container {
-
-      @media screen and (max-width: 1200px) {
-        .w30 {
-          width: 100%;
-          margin-bottom: 5em;
-        }
+      .w30 {
+        width: 100%;
+        margin-bottom: 5em;
       }
-      .boite {
-        h3 {
-          font-size: 20px;
-          text-align: center;
-          margin-bottom: 1.3em;
-        }
+    }
 
-        .center {
-          text-align: center;
-        }
+    .boite {
+      h3 {
+        font-size: 20px;
+        text-align: center;
+        margin-bottom: 1.3em;
+      }
+
+      .center {
+        text-align: center;
       }
     }
   }
