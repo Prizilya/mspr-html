@@ -1969,6 +1969,18 @@ html {
   text-decoration: none;
 }
 
+@media screen and (max-width: 1000px) {
+  ul {
+    width: 50%;
+    flex-wrap: wrap;
+    margin: 1% 0;
+  }
+
+  .titre {
+    font-size: 300% !important;
+    padding: 10%;
+  }
+}
 #footer {
   background-color: black;
   color: white;
@@ -2553,4 +2565,3 @@ a:active .line.-bottom {
 
 }
 */
-/*# sourceMappingURL=app.css.map */
