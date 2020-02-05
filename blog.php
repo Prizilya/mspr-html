@@ -36,6 +36,7 @@
                 <div class="w30 boite margin">
 
                     <img src="public/images/macarons.jpg" alt="Micro" title="Le micro de Valentine">
+
                     <h3>Comment réaliser des macarons framboises maisons ?</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut laoreet tortor. Aliquam ex
                         erat, elementum ut ultrices et, finibus nec nisl.</p>
