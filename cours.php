@@ -22,7 +22,7 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam aliquid optio
                             repellat
                             sequi!</p>
-                        <a class="btn black">
+                        <a href="inscription.php" class="btn black">
                             <span class="text black">Inscris- toi !</span>
                             <span class="line -right"></span>
                             <span class="line -top"></span>
@@ -42,7 +42,7 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam aliquid optio
                                 repellat
                                 sequi!</p>
-                            <a class="btn black">
+                            <a href="inscription.php" class="btn black">
                                 <span class="text black">Inscris- toi !</span>
                                 <span class="line -right"></span>
                                 <span class="line -top"></span>
@@ -62,7 +62,7 @@
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam aliquid optio
                                     repellat
                                     sequi!</p>
-                                <a class="btn black">
+                                <a href="inscription.php" class="btn black">
                                     <span class="text black">Inscris- toi !</span>
                                     <span class="line -right"></span>
                                     <span class="line -top"></span>
