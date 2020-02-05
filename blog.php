@@ -11,7 +11,7 @@
                 </div>
 
                 <div class="blog-card" id="blog-card">
-                    <div  style="width: 40%;" class="center">
+                    <div style="width: 40%;" class="center">
                         <div class="card tout" style="background-image: url(public/images/valentine.jpg);">
                             <div class="right">
                                 <h3>Un petit déjeuner romantique pour votre âme soeur !</h3>
@@ -27,7 +27,34 @@
                             </div>
                         </div>
                     </div>
+    </section>
 
+    <section id="blog-section2">
+        <div class="container">
+            <h2>Les autres articles</h2>
+            <div class="flex-container">
+                <div class="w30 boite margin">
+
+                    <img src="public/images/macarons.jpg" alt="Micro" title="Le micro de Valentine">
+                    <h2>Comment réaliser des macarons framboises maisons</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut laoreet tortor. Aliquam ex erat, elementum ut ultrices et, finibus nec nisl.</p>
+
+                </div>
+                <div class="w30 boite margin">
+
+                    <img src="public/images/couple.jpg" alt="Micro" title="Le micro de Valentine">
+                    <h2>Les bienfaits de la cuisine en couple</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut laoreet tortor. Aliquam ex erat, elementum ut ultrices et, finibus nec nisl.</p>
+
+                </div>
+                <div class="w30 boite">
+
+                    <img src="public/images/pasta.jpg" alt="Micro" title="Le micro de Valentine">
+                    <h2>Les pâtes maison, la meilleure recette</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut laoreet tortor. Aliquam ex erat, elementum ut ultrices et, finibus nec nisl.</p>
+                </div>
+            </div>
+        </div>
     </section>
 
 <?php include_once "footer.php" ?>
