@@ -34,7 +34,7 @@
             <div class="flex-container">
                 <div class="w30 boite margin">
 
-                    <img src="public/images/macarons.jpg" alt="Micro" title="Le micro de Valentine">
+                    <img src="public/images/macarons.jpg" alt="images de macarons">
 
                     <h3>Comment réaliser des macarons framboises maisons ?</h3>
                     <p>Le macaron est une des sucreries les appréciées en France. Ils sont encore meilleurs lorsqu'ils
@@ -52,7 +52,7 @@
                 </div>
                 <div class="w30 boite margin">
 
-                    <img src="public/images/couple.jpg" alt="Micro" title="Le micro de Valentine">
+                    <img src="public/images/couple.jpg" alt="couple qui fait la cuisine">
                     <h3>Les bienfaits de la cuisine en couple</h3>
                     <p>Les activités réalisées en couple permettent de passer des moments complices en couple. La cuisine est une activité qu'on peut réaliser tous les jours. Créer des souvenirs gustatifs avec votre moitié !</p>
 
@@ -69,7 +69,7 @@
                 </div>
                 <div class="w30 boite">
 
-                    <img src="public/images/pasta.jpg" alt="Micro" title="Le micro de Valentine">
+                    <img src="public/images/pasta.jpg" alt="images plat de pates">
                     <h3>Les pâtes maison, pourquoi arrêter les pâtes industrielles ?</h3>
                     <p>Les pâtes sont un acompagnement rapide et facile à réaliser. Au beurre ou en gratin, elles plaisent à tout le monde ! Mais ne serait-ce pas mieux pour notre santé de les fabriquer nous même ?</p>
                     <div class="center">
@@ -92,7 +92,7 @@
             <div class="flex-container">
                 <div class="w30 boite margin">
 
-                    <img src="public/images/legumes.jpg" alt="Micro" title="Le micro de Valentine">
+                    <img src="public/images/legumes.jpg" alt="imagesz de légumes">
                     <h3>Cuisinez les légumes de saison</h3>
                     <p>Difficile de trouver cuisiner des légumes de saison quand on les connait mal. Pas de panique ! on vous explique tout ! </p>
                     <div class="center">
@@ -108,7 +108,7 @@
                 </div>
                 <div class="w30 boite margin">
 
-                    <img src="public/images/epices.jpg" alt="Micro" title="Le micro de Valentine">
+                    <img src="public/images/epices.jpg" alt="image d'epices"  >
                     <h3>L'art des épices chiliennes</h3>
                     <p>"C'est trop épicé !" "Il est tout fade ton repas !". On vous apprend à manier les épices chiliennes pour n'avoir que des compliments sur vos repas !</p>
                     <div class="center">
@@ -124,7 +124,7 @@
                 </div>
                 <div class="w30 boite">
 
-                    <img src="public/images/vege.jpg" alt="Micro" title="Le micro de Valentine">
+                    <img src="public/images/vege.jpg" alt="image de légumes">
                     <h3>Une lunch box 100% végé</h3>
                     <p>Vous n'arrivez pas à faire des plats végétariens au travail ? Pas de problème ! Cette lunch box est parfaite pour vous !</p>
                     <div class="center">

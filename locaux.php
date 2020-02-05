@@ -37,25 +37,25 @@
         <div class="grid-4">
             <div class="col">
                 <div class="carte">
-                    <img src="public/images/kitchen.jpg" width="100%">
+                    <img src="public/images/kitchen.jpg" width="100%"  alt="photo de nos locaux">
 
                 </div>
             </div>
             <div class="col">
                 <div class="carte">
-                    <img src="public/images/locaux1.jpg" width="100%">
+                    <img src="public/images/locaux1.jpg" width="100%" alt="photo de nos locaux">
 
                 </div>
             </div>
             <div class="col">
                 <div class="carte">
-                    <img src="public/images/locaux2.jpg" width="100%">
+                    <img src="public/images/locaux2.jpg" width="100%" alt="photo de nos locaux">
 
                 </div>
             </div>
             <div class="col">
                 <div class="carte">
-                    <img src="public/images/locaux4.jpg" width="100%">
+                    <img src="public/images/locaux4.jpg" width="100%" alt="photo de nos locaux">
 
                 </div>
             </div>
@@ -68,25 +68,25 @@
         <div class="grid-4">
             <div class="col">
                 <div class="carte">
-                    <img src="public/images/locaux5.jpg" width="100%">
+                    <img src="public/images/locaux5.jpg" width="100%" alt="photo de nos locaux">
 
                 </div>
             </div>
             <div class="col">
                 <div class="carte">
-                    <img src="public/images/locaux%203.jpg" width="100%">
+                    <img src="public/images/locaux%203.jpg" width="100%" alt="photo de nos locaux">
 
                 </div>
             </div>
             <div class="col">
                 <div class="carte">
-                    <img src="public/images/locaux7.jpg" width="100%" ">
+                    <img src="public/images/locaux7.jpg" width="100%"  alt="photo de nos locaux">
 
                 </div>
             </div>
             <div class="col">
                 <div class="carte">
-                    <img src="public/images/card2.jpg" width="100%">
+                    <img src="public/images/card2.jpg" width="100%" alt="photo de nos locaux">
 
                 </div>
             </div>

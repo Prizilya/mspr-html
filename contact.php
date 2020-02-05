@@ -6,7 +6,7 @@
 
     <div class="contact">
         <div class="left">
-            <img src="public/images/locaux4.jpg" alt="">
+            <img src="public/images/locaux4.jpg" alt="photo de nos locaux">
         </div>
         <div class="right">
             <div class="formbox">
