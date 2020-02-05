@@ -38,8 +38,8 @@
                     <img src="public/images/macarons.jpg" alt="Micro" title="Le micro de Valentine">
 
                     <h3>Comment réaliser des macarons framboises maisons ?</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut laoreet tortor. Aliquam ex
-                        erat, elementum ut ultrices et, finibus nec nisl.</p>
+                    <p>Le macaron est une des sucreries les appréciées en France. Ils sont encore meilleurs lorsqu'ils
+                        sont fait maison. Faites plaisir à votre famille en réalisant cette recette !</p>
                     <div class="center">
                         <a class="btn black">
                             <span class="text black">Découvrir</span>
@@ -55,8 +55,7 @@
 
                     <img src="public/images/couple.jpg" alt="Micro" title="Le micro de Valentine">
                     <h3>Les bienfaits de la cuisine en couple</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut laoreet tortor. Aliquam ex
-                        erat, elementum ut ultrices et, finibus nec nisl.</p>
+                    <p>Les activités réalisées en couple permettent de passer des moments complices en couple. La cuisine est une activité qu'on peut réaliser tous les jours. Créer des souvenirs gustatifs avec votre moitié !</p>
 
                     <div class="center">
                         <a class="btn black">
@@ -72,9 +71,8 @@
                 <div class="w30 boite">
 
                     <img src="public/images/pasta.jpg" alt="Micro" title="Le micro de Valentine">
-                    <h3>Les pâtes maison, la meilleure recette</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut laoreet tortor. Aliquam ex
-                        erat, elementum ut ultrices et, finibus nec nisl.</p>
+                    <h3>Les pâtes maison, pourquoi arrêter les pâtes industrielles ?</h3>
+                    <p>Les pâtes sont un acompagnement rapide et facile à réaliser. Au beurre ou en gratin, elles plaisent à tout le monde ! Mais ne serait-ce pas mieux pour notre santé de les fabriquer nous même ?</p>
                     <div class="center">
                         <a class="btn black">
                             <span class="text black">Découvrir</span>
@@ -97,8 +95,7 @@
 
                     <img src="public/images/legumes.jpg" alt="Micro" title="Le micro de Valentine">
                     <h3>Cuisinez les légumes de saison</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut laoreet tortor. Aliquam ex
-                        erat, elementum ut ultrices et, finibus nec nisl.</p>
+                    <p>Difficile de trouver cuisiner des légumes de saison quand on les connait mal. Pas de panique ! on vous explique tout ! </p>
                     <div class="center">
                         <a class="btn black">
                             <span class="text black">Découvrir</span>
