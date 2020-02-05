@@ -13,20 +13,36 @@
       font-size: 60px;
       font-family: 'lora', serif;
     }
-    h2{
+
+    h2 {
       font-family: 'lora', serif;
     }
+
     .button {
       margin-bottom: 15rem;
     }
   }
 }
-.right{
+
+.right {
   width: 60%;
+
+  .card {
+    img {
+      object-fit: cover;
+    }
+  }
 }
 
 @media screen and (max-width: 1200px) {
-  .right{
+  .right {
     width: auto;
+    .card{
+      display: block;
+      img{
+        max-width: 100%;
+        max-height: 20em;
+      }
+    }
   }
 }

@@ -2133,10 +2133,20 @@ html {
 .right {
   width: 60%;
 }
+.right .card img {
+  object-fit: cover;
+}
 
 @media screen and (max-width: 1200px) {
   .right {
     width: auto;
+  }
+  .right .card {
+    display: block;
+  }
+  .right .card img {
+    max-width: 100%;
+    max-height: 20em;
   }
 }
 #blog-jumbotron {
@@ -2609,3 +2619,4 @@ a:active .line.-bottom {
 
 }
 */
+/*# sourceMappingURL=app.css.map */
