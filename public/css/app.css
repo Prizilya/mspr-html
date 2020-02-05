@@ -2207,8 +2207,16 @@ html {
 #blog-section2 .container .flex-column .w30, #blog-section2 .container .flex-container--row-reverse .w30,
 #blog-section2 .container .flex-row-reverse .w30, #blog-section2 .container .flex-container--column-reverse .w30,
 #blog-section2 .container .flex-column-reverse .w30 {
-  width: 100%;
   margin-bottom: 5em;
+}
+@media screen and (max-width: 1200px) {
+  #blog-section2 .container .flex-container .w30, #blog-section2 .container .flex-container--row .w30,
+#blog-section2 .container .flex-row .w30, #blog-section2 .container .flex-container--column .w30,
+#blog-section2 .container .flex-column .w30, #blog-section2 .container .flex-container--row-reverse .w30,
+#blog-section2 .container .flex-row-reverse .w30, #blog-section2 .container .flex-container--column-reverse .w30,
+#blog-section2 .container .flex-column-reverse .w30 {
+    width: 100%;
+  }
 }
 #blog-section2 .container .boite h3 {
   font-size: 20px;
@@ -2575,3 +2583,4 @@ a:active .line.-bottom {
 
 }
 */
+/*# sourceMappingURL=app.css.map */
