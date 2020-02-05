@@ -36,7 +36,7 @@
             <div class="cours-card">
                 <div  class="right">
                     <div class="card">
-                        <img src="public/images/card1.jpg" alt="">
+                        <img src="public/images/maca.jpg" alt="">
                         <div class="card-body">
                             <h2>Cours sur moi !</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam aliquid optio
