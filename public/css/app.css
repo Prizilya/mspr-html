@@ -2459,6 +2459,32 @@ html {
     margin: 10px 0;
   }
 }
+#article-jumbotron .container {
+  padding-top: 10em;
+}
+#article-jumbotron .container h1 {
+  text-align: center;
+  margin-bottom: 2em;
+}
+#article-jumbotron .container .center {
+  width: 30%;
+}
+#article-jumbotron .container .center img {
+  border-radius: 5px;
+  margin-bottom: 1em;
+}
+#article-jumbotron .container .center p {
+  text-align: center;
+}
+
+#article-1 .fl img {
+  width: 20%;
+  border-radius: 5px;
+}
+#article-1 .fr p {
+  width: 20%;
+}
+
 .btn {
   padding: 0.7em calc(0.7em * 1.2);
   display: inline-block;
