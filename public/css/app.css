@@ -2486,18 +2486,20 @@ html {
   margin: 10px;
   shape-outside: circle();
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 800px) {
   #article-jumbotron .imgtext img {
-    shape-outside: border-box;
-    position: absolute;
+    display: block;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 #article-jumbotron .imgtext p {
   vertical-align: middle;
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 800px) {
   #article-jumbotron .imgtext p {
-    padding-bottom: 200px;
+    padding-top: 2em;
   }
 }
 
@@ -2507,12 +2509,22 @@ html {
   margin: auto;
   padding-bottom: 2em;
 }
+@media screen and (max-width: 800px) {
+  #article-1 .center p {
+    width: 100%;
+  }
+}
 #article-1 .center img {
   display: block;
   margin: auto;
   width: 60%;
   border-radius: 50% 20%/10% 40%;
   padding-bottom: 2em;
+}
+@media screen and (max-width: 800px) {
+  #article-1 .center img {
+    width: 100%;
+  }
 }
 
 .btn {
