@@ -1,5 +1,6 @@
 
-html{ min-height: 100vh;
+html {
+  min-height: 100vh;
   scroll-behavior: smooth;
 
 }
@@ -52,22 +53,20 @@ html{ min-height: 100vh;
         }
       }
     }
-    }
   }
+}
 
 @media screen and (max-width: 1000px) {
 
-  ul{
+  ul {
     width: 50%;
     flex-wrap: wrap;
-    margin: 1%  0;
-
-
+    margin: 1% 0;
 
 
   }
-  .titre{
-    font-size: 300%!important;
+  .titre {
+    font-size: 300% !important;
     padding: 10%;
 
 

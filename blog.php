@@ -40,7 +40,7 @@
                     <p>Le macaron est une des sucreries les appréciées en France. Ils sont encore meilleurs lorsqu'ils
                         sont fait maison. Faites plaisir à votre famille en réalisant cette recette !</p>
                     <div class="center">
-                        <a class="btn black">
+                        <a href="article.php" class="btn black">
                             <span class="text black">Découvrir</span>
                             <span class="line -right"></span>
                             <span class="line -top"></span>
