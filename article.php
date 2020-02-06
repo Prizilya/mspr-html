@@ -12,7 +12,7 @@
 
     <section id="article-1">
         <div class="container">
-            <div class="flex-container">
+            <div class="clearfix">
                 <div class="fl">
                     <img src="public/images/macaron1.jpg" alt="Macarons à la framboise avec une rose violette.">
                 </div>
