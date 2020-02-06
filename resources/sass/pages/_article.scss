@@ -5,6 +5,7 @@
   h1 {
     text-align: center;
     margin-bottom: 2em;
+    font-family: 'Playfair Display', serif;
   }
 
   .imgtext {
@@ -51,6 +52,7 @@
       padding-bottom: 2em;
       @media screen and (max-width: 800px) {
         width: 100%;
+        font-family: 'Playfair Display', serif;
       }
     }
 
