@@ -1936,6 +1936,7 @@ html {
   padding: 5Px;
   background-color: rgba(255, 255, 255, 0.8);
   box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.2);
+  z-index: 100;
 }
 #header .container {
   display: flex;
@@ -2459,30 +2460,59 @@ html {
     margin: 10px 0;
   }
 }
-#article-jumbotron .container {
-  padding-top: 10em;
+#article-jumbotron {
+  padding-top: 12em;
+  margin-bottom: 5em;
 }
-#article-jumbotron .container h1 {
+#article-jumbotron h1 {
   text-align: center;
   margin-bottom: 2em;
 }
-#article-jumbotron .container .center {
-  width: 30%;
+#article-jumbotron .imgtext {
+  max-width: 900px;
+  margin: auto;
+  vertical-align: middle;
 }
-#article-jumbotron .container .center img {
-  border-radius: 5px;
-  margin-bottom: 1em;
+#article-jumbotron .imgtext img {
+  position: relative;
+  vertical-align: middle;
+  overflow: hidden;
+  width: 100%;
+  min-width: 300px;
+  max-width: 300px;
+  height: 300px;
+  float: left;
+  border-radius: 50%;
+  margin: 10px;
+  shape-outside: circle();
 }
-#article-jumbotron .container .center p {
-  text-align: center;
+@media screen and (max-width: 1000px) {
+  #article-jumbotron .imgtext img {
+    shape-outside: border-box;
+    position: absolute;
+  }
+}
+#article-jumbotron .imgtext p {
+  vertical-align: middle;
+}
+@media screen and (max-width: 1000px) {
+  #article-jumbotron .imgtext p {
+    padding-bottom: 200px;
+  }
 }
 
-#article-1 .fl img {
-  width: 20%;
-  border-radius: 5px;
+#article-1 .center p {
+  width: 60%;
+  display: block;
+  margin: auto;
+  padding-bottom: 2em;
 }
-#article-1 .fr p {
-  width: 20%;
+#article-1 .center img {
+  display: block;
+  margin: auto;
+  width: 60%;
+  border-radius: 50% 20%/10% 40%;
+  padding-bottom: 2em;
 }
 
 .btn {
