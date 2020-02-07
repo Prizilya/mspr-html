@@ -1,6 +1,8 @@
 <?php include_once ("header.php")?>
 
 <div class="containe">
+
+    <div class="responsive">
     <div class="flex-column">
         <div class="titre">
             <i class="fas fa-cookie-bite"></i>
@@ -44,7 +46,7 @@
         </div>
         <a href="cours.php">Découvrir nos ateliers</a>
     </div>
-
+    </div>
 </div>
 
 
@@ -56,3 +58,4 @@
 
 
 
+<?php include_once "footer.php" ?>
