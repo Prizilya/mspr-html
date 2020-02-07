@@ -1,6 +1,4 @@
-<?php include_once ("header.php") ?>
-
-
+<?php include_once("header.php") ?>
 
 
 <section id="home-jumbotron" class="jumbotron" style="background-image: url(public/images/kitchen.jpg)">
@@ -8,15 +6,15 @@
 </section>
 
 
-
-<section id="home-presentation" >
+<section id="home-presentation">
     <div class="container">
         <div class="grid-2">
             <div class="col">
 
 
                 <p style="font-family: 'Playfair Display', serif;">
-               <b> Nos cours ont lieux dans nos ateliers à cette adresse :</br> 16 Boulevard Général de Gaulle, 44200 Nantes </b></p>
+                    <b> Nos cours ont lieux dans nos ateliers à cette adresse :</br> 16 Boulevard Général de Gaulle,
+                        44200 Nantes </b></p>
 
                    <p> L’atelier de cuisine CookUp
                     vous accueille au coeur de Nantes</br>
@@ -27,10 +25,13 @@
                     Réalisez des recettes créatives et accessibles
                     Participez activement à l’élaboration des recettes (préparation,cuisson, dressage)</p>
 
-                <p> Nos chefs expérimenté et pédagogue vous apportera de nouvelles idées (Matériel, Ingrédients, emballages et fiches techniques vous sont fournis)</p>
+                <p> Nos chefs expérimenté et pédagogue vous apportera de nouvelles idées (Matériel, Ingrédients,
+                    emballages et fiches techniques vous sont fournis)</p>
 
-                <p><u><b> Privatisez un atelier : Enterrement de vie de jeune fille/garçon, anniversaire, événement particulier</u></b>
-                    Si vous souhaitez organiser un déjeuner ou une soirée vraiment atypique, l’atelier cuisine vous concocte une formule sur mesure à l’atelier ou sur le lieu de votre choix,
+                <p><u><b> Privatisez un atelier : Enterrement de vie de jeune fille/garçon, anniversaire, événement
+                            particulier</u></b>
+                    Si vous souhaitez organiser un déjeuner ou une soirée vraiment atypique, l’atelier cuisine vous
+                    concocte une formule sur mesure à l’atelier ou sur le lieu de votre choix,
                     un moment unique à partager exclusivement avec vos invités.</p>
             </div>
 
@@ -44,12 +45,12 @@
         </div>
     </div>
 </section>
-<section id="home-presentation" >
+<section id="home-presentation">
     <div class="container">
         <div class="grid-4">
             <div class="col">
                 <div class="carte">
-                    <img src="public/images/kitchen.jpg" width="100%"  alt="photo de nos locaux">
+                    <img src="public/images/kitchen.jpg" width="100%" alt="photo de nos locaux">
 
                 </div>
             </div>
@@ -73,7 +74,6 @@
             </div>
 
 
-
         </div>
     </div>
     <div class="container">
@@ -92,7 +92,7 @@
             </div>
             <div class="col">
                 <div class="carte">
-                    <img src="public/images/locaux7.jpg" width="100%"  alt="photo de nos locaux">
+                    <img src="public/images/locaux7.jpg" width="100%" alt="photo de nos locaux">
 
                 </div>
             </div>
@@ -104,15 +104,9 @@
             </div>
 
 
-
         </div>
     </div>
 </section>
 
 
-
-
-
-
-
-<?php include_once ("footer.php") ?>
+<?php include_once("footer.php") ?>

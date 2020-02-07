@@ -2250,9 +2250,11 @@ html {
   font-size: 20px;
   text-align: center;
   margin-bottom: 1.3em;
+  font-family: "lora", serif;
 }
 #blog-section2 .container .boite p {
   text-align: center;
+  font-family: "Playfair Display", serif;
 }
 #blog-section2 .container .boite .center {
   text-align: center;
