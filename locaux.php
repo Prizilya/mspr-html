@@ -18,14 +18,14 @@
                 <p style="font-family: 'Playfair Display', serif;">
                <b> Nos cours ont lieux dans nos ateliers à cette adresse :</br> 16 Boulevard Général de Gaulle, 44200 Nantes </b></p>
 
-                    L’atelier de cuisine CookUp
+                   <p> L’atelier de cuisine CookUp
                     vous accueille au coeur de Nantes</br>
                     Notre palette des saveurs n’a pas de frontière et pour chaque atelier :
                     Choisissez votre thème : de la gastronomie Française à la cuisine du monde,
                     Découvrez les produits de saison, les techniques de base
                     Partagez les tendances gourmandes,
                     Réalisez des recettes créatives et accessibles
-                    Participez activement à l’élaboration des recettes (préparation,cuisson, dressage)/<p>
+                    Participez activement à l’élaboration des recettes (préparation,cuisson, dressage)</p>
 
                 <p> Nos chefs expérimenté et pédagogue vous apportera de nouvelles idées (Matériel, Ingrédients, emballages et fiches techniques vous sont fournis)</p>
 

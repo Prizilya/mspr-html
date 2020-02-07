@@ -2453,6 +2453,11 @@ html {
   font-family: "Playfair Display", serif;
 }
 
+#home-presentation p {
+  font-family: "Playfair Display", serif;
+  margin-right: 20px;
+}
+
 @media screen and (max-width: 1000px) {
   .carte {
     margin: 10px 0;
